@@ -1,0 +1,3722 @@
+[
+  {
+    "data": {
+      "id": "0",
+      "degreeCentrality": 4,
+      "djikstraDistance": 13,
+      "query": true,
+      "social": true,
+      "name": "Gambia"
+    },
+    "position": {
+      "x": 634.5287850963512,
+      "y": 683.6438857207697
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1",
+      "degreeCentrality": 4,
+      "djikstraDistance": 77,
+      "query": true,
+      "social": true,
+      "name": "Malta"
+    },
+    "position": {
+      "x": 640.3196074799359,
+      "y": 962.4520885954779
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "2",
+      "degreeCentrality": 8,
+      "djikstraDistance": 10,
+      "query": true,
+      "social": true,
+      "name": "Vanuatu"
+    },
+    "position": {
+      "x": 849.1527457749576,
+      "y": 0.9799115642350475
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "3",
+      "degreeCentrality": 3,
+      "djikstraDistance": 99,
+      "query": true,
+      "social": true,
+      "name": "Equatorial Guinea"
+    },
+    "position": {
+      "x": 29.357299248757517,
+      "y": 601.7133893832507
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "4",
+      "degreeCentrality": 10,
+      "djikstraDistance": 5,
+      "query": true,
+      "social": true,
+      "name": "Tokelau"
+    },
+    "position": {
+      "x": 128.16436399531216,
+      "y": 731.1539226153399
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "5",
+      "degreeCentrality": 4,
+      "djikstraDistance": 7,
+      "query": true,
+      "social": true,
+      "name": "Singapore"
+    },
+    "position": {
+      "x": 142.983391732067,
+      "y": 250.88459064398637
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "6",
+      "degreeCentrality": 9,
+      "djikstraDistance": 83,
+      "query": true,
+      "social": true,
+      "name": "Palau"
+    },
+    "position": {
+      "x": 592.2242439867334,
+      "y": 963.9762686428948
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "7",
+      "degreeCentrality": 9,
+      "djikstraDistance": 27,
+      "query": true,
+      "social": true,
+      "name": "Ethiopia"
+    },
+    "position": {
+      "x": 881.6472458724384,
+      "y": 429.4494698777821
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "8",
+      "degreeCentrality": 1,
+      "djikstraDistance": 22,
+      "query": true,
+      "social": true,
+      "name": "Cameroon"
+    },
+    "position": {
+      "x": 435.75286913562286,
+      "y": 851.0024407430909
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "9",
+      "degreeCentrality": 10,
+      "djikstraDistance": 4,
+      "query": true,
+      "social": true,
+      "name": "Bosnia and Herzegovina"
+    },
+    "position": {
+      "x": 403.5880752131658,
+      "y": 307.051898210852
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "10",
+      "degreeCentrality": 1,
+      "djikstraDistance": 82,
+      "query": true,
+      "social": true,
+      "name": "Mongolia"
+    },
+    "position": {
+      "x": 706.4733097822337,
+      "y": 90.13740325493136
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "11",
+      "degreeCentrality": 6,
+      "djikstraDistance": 2,
+      "query": true,
+      "social": true,
+      "name": "Nigeria"
+    },
+    "position": {
+      "x": 213.5056893898841,
+      "y": 906.8989148179261
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "12",
+      "degreeCentrality": 9,
+      "djikstraDistance": 36,
+      "query": true,
+      "social": true,
+      "name": "Jersey"
+    },
+    "position": {
+      "x": 645.8301138602825,
+      "y": 266.1359170069704
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "13",
+      "degreeCentrality": 1,
+      "djikstraDistance": 62,
+      "query": true,
+      "social": true,
+      "name": "Austria"
+    },
+    "position": {
+      "x": 626.512121071157,
+      "y": 978.4145114270051
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "14",
+      "degreeCentrality": 7,
+      "djikstraDistance": 77,
+      "query": true,
+      "social": true,
+      "name": "Marshall Islands"
+    },
+    "position": {
+      "x": 839.7630598395612,
+      "y": 941.2863529334865
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "15",
+      "degreeCentrality": 2,
+      "djikstraDistance": 41,
+      "query": true,
+      "social": true,
+      "name": "San Marino"
+    },
+    "position": {
+      "x": 244.589625613284,
+      "y": 91.34515200789473
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "16",
+      "degreeCentrality": 4,
+      "djikstraDistance": 21,
+      "query": true,
+      "social": true,
+      "name": "Ghana"
+    },
+    "position": {
+      "x": 337.94301974539667,
+      "y": 405.2489269554956
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "17",
+      "degreeCentrality": 3,
+      "djikstraDistance": 97,
+      "query": true,
+      "social": true,
+      "name": "Djibouti"
+    },
+    "position": {
+      "x": 123.59435731001479,
+      "y": 322.57789075873177
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "18",
+      "degreeCentrality": 1,
+      "djikstraDistance": 58,
+      "query": true,
+      "social": true,
+      "name": "Chad"
+    },
+    "position": {
+      "x": 903.7503413110263,
+      "y": 124.35173019862411
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "19",
+      "degreeCentrality": 6,
+      "djikstraDistance": 36,
+      "query": true,
+      "social": true,
+      "name": "Norway"
+    },
+    "position": {
+      "x": 778.2390503707791,
+      "y": 531.2009744765772
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "20",
+      "degreeCentrality": 0,
+      "djikstraDistance": 46,
+      "query": true,
+      "social": true,
+      "name": "Oman"
+    },
+    "position": {
+      "x": 229.2070759993421,
+      "y": 604.8587534661774
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "21",
+      "degreeCentrality": 10,
+      "djikstraDistance": 18,
+      "query": true,
+      "social": true,
+      "name": "Russian Federation"
+    },
+    "position": {
+      "x": 460.5697372211695,
+      "y": 396.8345358637536
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "22",
+      "degreeCentrality": 7,
+      "djikstraDistance": 73,
+      "query": true,
+      "social": true,
+      "name": "Germany"
+    },
+    "position": {
+      "x": 940.6975757065742,
+      "y": 728.056859606405
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "23",
+      "degreeCentrality": 4,
+      "djikstraDistance": 5,
+      "query": true,
+      "social": true,
+      "name": "Liechtenstein"
+    },
+    "position": {
+      "x": 437.1573711365715,
+      "y": 514.8061469298943
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "24",
+      "degreeCentrality": 6,
+      "djikstraDistance": 95,
+      "query": true,
+      "social": true,
+      "name": "Philippines"
+    },
+    "position": {
+      "x": 498.48493983693373,
+      "y": 472.6286598285894
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "25",
+      "degreeCentrality": 1,
+      "djikstraDistance": 41,
+      "query": true,
+      "social": true,
+      "name": "Viet Nam"
+    },
+    "position": {
+      "x": 601.7867889092277,
+      "y": 88.9122998518268
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "26",
+      "degreeCentrality": 1,
+      "djikstraDistance": 96,
+      "query": true,
+      "social": true,
+      "name": "Kyrgyzstan"
+    },
+    "position": {
+      "x": 254.9584055328915,
+      "y": 773.4069437463844
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "27",
+      "degreeCentrality": 9,
+      "djikstraDistance": 39,
+      "query": true,
+      "social": true,
+      "name": "China"
+    },
+    "position": {
+      "x": 646.9020365701882,
+      "y": 897.0786828165697
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "28",
+      "degreeCentrality": 6,
+      "djikstraDistance": 9,
+      "query": true,
+      "social": true,
+      "name": "Greece"
+    },
+    "position": {
+      "x": 845.0420442117158,
+      "y": 901.2939551833733
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "29",
+      "degreeCentrality": 4,
+      "djikstraDistance": 69,
+      "query": true,
+      "social": true,
+      "name": "Guinea"
+    },
+    "position": {
+      "x": 676.8169608019106,
+      "y": 47.89814321023522
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "30",
+      "degreeCentrality": 4,
+      "djikstraDistance": 18,
+      "query": true,
+      "social": true,
+      "name": "Liberia"
+    },
+    "position": {
+      "x": 452.91912028602053,
+      "y": 963.8541723241268
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "31",
+      "degreeCentrality": 10,
+      "djikstraDistance": 75,
+      "query": true,
+      "social": true,
+      "name": "Chile"
+    },
+    "position": {
+      "x": 756.7109434670352,
+      "y": 419.03374815438923
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "32",
+      "degreeCentrality": 4,
+      "djikstraDistance": 100,
+      "query": true,
+      "social": true,
+      "name": "Fiji"
+    },
+    "position": {
+      "x": 578.2230153303633,
+      "y": 864.1382175751627
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "33",
+      "degreeCentrality": 7,
+      "djikstraDistance": 83,
+      "query": true,
+      "social": true,
+      "name": "Slovenia"
+    },
+    "position": {
+      "x": 886.0265971330942,
+      "y": 26.53799836857107
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "34",
+      "degreeCentrality": 2,
+      "djikstraDistance": 68,
+      "query": true,
+      "social": true,
+      "name": "Andorra"
+    },
+    "position": {
+      "x": 566.0771735933121,
+      "y": 723.6135097948271
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "35",
+      "degreeCentrality": 2,
+      "djikstraDistance": 41,
+      "query": true,
+      "social": true,
+      "name": "Iran"
+    },
+    "position": {
+      "x": 187.41017818151585,
+      "y": 351.752122481044
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "36",
+      "degreeCentrality": 10,
+      "djikstraDistance": 34,
+      "query": true,
+      "social": true,
+      "name": "Barbados"
+    },
+    "position": {
+      "x": 757.0952330188356,
+      "y": 145.91184451713346
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "37",
+      "degreeCentrality": 4,
+      "djikstraDistance": 70,
+      "query": true,
+      "social": true,
+      "name": "Tunisia"
+    },
+    "position": {
+      "x": 861.2952488969756,
+      "y": 625.0215307107688
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "38",
+      "degreeCentrality": 4,
+      "djikstraDistance": 85,
+      "query": true,
+      "social": true,
+      "name": "Venezuela"
+    },
+    "position": {
+      "x": 193.03030343227655,
+      "y": 723.8850507445317
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "39",
+      "degreeCentrality": 10,
+      "djikstraDistance": 55,
+      "query": true,
+      "social": true,
+      "name": "Kiribati"
+    },
+    "position": {
+      "x": 274.442903916019,
+      "y": 580.8678156382497
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "40",
+      "degreeCentrality": 8,
+      "djikstraDistance": 24,
+      "query": true,
+      "social": true,
+      "name": "New Caledonia"
+    },
+    "position": {
+      "x": 698.9628555960256,
+      "y": 525.0849090232045
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "41",
+      "degreeCentrality": 6,
+      "djikstraDistance": 49,
+      "query": true,
+      "social": true,
+      "name": "Montserrat"
+    },
+    "position": {
+      "x": 740.4993371728493,
+      "y": 776.4242786349599
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "42",
+      "degreeCentrality": 0,
+      "djikstraDistance": 16,
+      "query": true,
+      "social": true,
+      "name": "Monaco"
+    },
+    "position": {
+      "x": 258.65726370918793,
+      "y": 936.2466778381325
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "43",
+      "degreeCentrality": 2,
+      "djikstraDistance": 8,
+      "query": true,
+      "social": true,
+      "name": "Timor-Leste"
+    },
+    "position": {
+      "x": 763.3282355410156,
+      "y": 773.8123308347967
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "44",
+      "degreeCentrality": 6,
+      "djikstraDistance": 33,
+      "query": true,
+      "social": true,
+      "name": "Afghanistan"
+    },
+    "position": {
+      "x": 581.2237665291883,
+      "y": 763.2392765474287
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "45",
+      "degreeCentrality": 10,
+      "djikstraDistance": 3,
+      "query": true,
+      "social": true,
+      "name": "Uganda"
+    },
+    "position": {
+      "x": 614.3282394604194,
+      "y": 697.2703554681717
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "46",
+      "degreeCentrality": 8,
+      "djikstraDistance": 99,
+      "query": true,
+      "social": true,
+      "name": "Belize"
+    },
+    "position": {
+      "x": 370.66734650190335,
+      "y": 388.1293265362755
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "47",
+      "degreeCentrality": 1,
+      "djikstraDistance": 39,
+      "query": true,
+      "social": true,
+      "name": "Sweden"
+    },
+    "position": {
+      "x": 39.63770390586552,
+      "y": 421.41635811142964
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "48",
+      "degreeCentrality": 2,
+      "djikstraDistance": 93,
+      "query": true,
+      "social": true,
+      "name": "Bermuda"
+    },
+    "position": {
+      "x": 588.8031349931836,
+      "y": 347.9721292809824
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "49",
+      "degreeCentrality": 10,
+      "djikstraDistance": 59,
+      "query": true,
+      "social": true,
+      "name": "Australia"
+    },
+    "position": {
+      "x": 92.48975313848217,
+      "y": 526.7496725058785
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "50",
+      "degreeCentrality": 7,
+      "djikstraDistance": 54,
+      "query": true,
+      "social": true,
+      "name": "Tanzania, United Republic of"
+    },
+    "position": {
+      "x": 912.512945271404,
+      "y": 47.598629463016074
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "51",
+      "degreeCentrality": 2,
+      "djikstraDistance": 79,
+      "query": true,
+      "social": true,
+      "name": "Zambia"
+    },
+    "position": {
+      "x": 640.2148314752473,
+      "y": 62.44735592581008
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "52",
+      "degreeCentrality": 0,
+      "djikstraDistance": 17,
+      "query": true,
+      "social": true,
+      "name": "South Sudan"
+    },
+    "position": {
+      "x": 945.6867065214507,
+      "y": 412.5246714017229
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "53",
+      "degreeCentrality": 10,
+      "djikstraDistance": 87,
+      "query": true,
+      "social": true,
+      "name": "Saint Barth\u00e9lemy"
+    },
+    "position": {
+      "x": 213.5509229527841,
+      "y": 805.207823864108
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "54",
+      "degreeCentrality": 0,
+      "djikstraDistance": 68,
+      "query": true,
+      "social": true,
+      "name": "Guernsey"
+    },
+    "position": {
+      "x": 86.1179589525619,
+      "y": 67.12940994467264
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "55",
+      "degreeCentrality": 6,
+      "djikstraDistance": 71,
+      "query": true,
+      "social": true,
+      "name": "Namibia"
+    },
+    "position": {
+      "x": 489.0738753278757,
+      "y": 518.8288868753356
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "56",
+      "degreeCentrality": 8,
+      "djikstraDistance": 3,
+      "query": true,
+      "social": true,
+      "name": "Turkmenistan"
+    },
+    "position": {
+      "x": 949.194351941777,
+      "y": 136.98654366561215
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "57",
+      "degreeCentrality": 0,
+      "djikstraDistance": 76,
+      "query": true,
+      "social": true,
+      "name": "Jordan"
+    },
+    "position": {
+      "x": 820.4695060735687,
+      "y": 18.169661049602936
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "58",
+      "degreeCentrality": 5,
+      "djikstraDistance": 89,
+      "query": true,
+      "social": true,
+      "name": "Mali"
+    },
+    "position": {
+      "x": 254.46176073085635,
+      "y": 201.43600341772128
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "59",
+      "degreeCentrality": 10,
+      "djikstraDistance": 39,
+      "query": true,
+      "social": true,
+      "name": "El Salvador"
+    },
+    "position": {
+      "x": 906.3253807781455,
+      "y": 561.422451561732
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "60",
+      "degreeCentrality": 0,
+      "djikstraDistance": 73,
+      "query": true,
+      "social": true,
+      "name": "Honduras"
+    },
+    "position": {
+      "x": 327.5160025716669,
+      "y": 721.3970729847948
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "61",
+      "degreeCentrality": 2,
+      "djikstraDistance": 24,
+      "query": true,
+      "social": true,
+      "name": "Niue"
+    },
+    "position": {
+      "x": 75.95394005201229,
+      "y": 414.01288654041633
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "62",
+      "degreeCentrality": 0,
+      "djikstraDistance": 78,
+      "query": true,
+      "social": true,
+      "name": "Senegal"
+    },
+    "position": {
+      "x": 723.18975131369,
+      "y": 364.9947288262939
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "63",
+      "degreeCentrality": 6,
+      "djikstraDistance": 16,
+      "query": true,
+      "social": true,
+      "name": "Saint Kitts and Nevis"
+    },
+    "position": {
+      "x": 584.7819218473913,
+      "y": 419.9288306782115
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "64",
+      "degreeCentrality": 6,
+      "djikstraDistance": 29,
+      "query": true,
+      "social": true,
+      "name": "Netherlands"
+    },
+    "position": {
+      "x": 675.1863797672265,
+      "y": 738.943158192045
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "65",
+      "degreeCentrality": 1,
+      "djikstraDistance": 3,
+      "query": true,
+      "social": true,
+      "name": "Micronesia"
+    },
+    "position": {
+      "x": 919.4989504018616,
+      "y": 385.7775148132032
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "66",
+      "degreeCentrality": 1,
+      "djikstraDistance": 14,
+      "query": true,
+      "social": true,
+      "name": "Congo, Democratic Republic of the"
+    },
+    "position": {
+      "x": 32.43341643796305,
+      "y": 326.574426861523
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "67",
+      "degreeCentrality": 7,
+      "djikstraDistance": 8,
+      "query": true,
+      "social": true,
+      "name": "Guadeloupe"
+    },
+    "position": {
+      "x": 495.1979210679871,
+      "y": 458.5904828480365
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "68",
+      "degreeCentrality": 1,
+      "djikstraDistance": 89,
+      "query": true,
+      "social": true,
+      "name": "Korea, Republic of"
+    },
+    "position": {
+      "x": 638.8141624571437,
+      "y": 804.8641932305674
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "69",
+      "degreeCentrality": 7,
+      "djikstraDistance": 52,
+      "query": true,
+      "social": true,
+      "name": "Sao Tome and Principe"
+    },
+    "position": {
+      "x": 657.9866463286314,
+      "y": 416.6336264143916
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "70",
+      "degreeCentrality": 4,
+      "djikstraDistance": 90,
+      "query": true,
+      "social": true,
+      "name": "Papua New Guinea"
+    },
+    "position": {
+      "x": 398.34247021940485,
+      "y": 204.13072784601005
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "71",
+      "degreeCentrality": 9,
+      "djikstraDistance": 59,
+      "query": true,
+      "social": true,
+      "name": "Belgium"
+    },
+    "position": {
+      "x": 890.273621107927,
+      "y": 473.86156760921904
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "72",
+      "degreeCentrality": 0,
+      "djikstraDistance": 50,
+      "query": true,
+      "social": true,
+      "name": "Grenada"
+    },
+    "position": {
+      "x": 300.2408629996217,
+      "y": 387.89400752790925
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "73",
+      "degreeCentrality": 3,
+      "djikstraDistance": 42,
+      "query": true,
+      "social": true,
+      "name": "Sudan"
+    },
+    "position": {
+      "x": 89.36977770662602,
+      "y": 963.8139899794224
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "74",
+      "degreeCentrality": 9,
+      "djikstraDistance": 49,
+      "query": true,
+      "social": true,
+      "name": "Egypt"
+    },
+    "position": {
+      "x": 854.2284099875677,
+      "y": 645.9225929781421
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "75",
+      "degreeCentrality": 7,
+      "djikstraDistance": 74,
+      "query": true,
+      "social": true,
+      "name": "Zimbabwe"
+    },
+    "position": {
+      "x": 782.2864455453065,
+      "y": 207.38588116527146
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "76",
+      "degreeCentrality": 7,
+      "djikstraDistance": 93,
+      "query": true,
+      "social": true,
+      "name": "Mexico"
+    },
+    "position": {
+      "x": 389.84955876291895,
+      "y": 281.5150865523234
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "77",
+      "degreeCentrality": 6,
+      "djikstraDistance": 37,
+      "query": true,
+      "social": true,
+      "name": "Syrian Arab Republic"
+    },
+    "position": {
+      "x": 392.23930637293546,
+      "y": 970.2032332705174
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "78",
+      "degreeCentrality": 10,
+      "djikstraDistance": 17,
+      "query": true,
+      "social": true,
+      "name": "Hungary"
+    },
+    "position": {
+      "x": 206.79819065708992,
+      "y": 626.934402966575
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "79",
+      "degreeCentrality": 7,
+      "djikstraDistance": 85,
+      "query": true,
+      "social": true,
+      "name": "Benin"
+    },
+    "position": {
+      "x": 982.9357216712762,
+      "y": 887.6694098112116
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "80",
+      "source": "22",
+      "target": "74",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "160",
+      "source": "74",
+      "target": "22",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "81",
+      "source": "49",
+      "target": "79",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "161",
+      "source": "79",
+      "target": "49",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "82",
+      "source": "27",
+      "target": "27",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "162",
+      "source": "27",
+      "target": "27",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "83",
+      "source": "7",
+      "target": "37",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "163",
+      "source": "37",
+      "target": "7",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "84",
+      "source": "29",
+      "target": "58",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "164",
+      "source": "58",
+      "target": "29",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "85",
+      "source": "78",
+      "target": "51",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "165",
+      "source": "51",
+      "target": "78",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "86",
+      "source": "57",
+      "target": "12",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "166",
+      "source": "12",
+      "target": "57",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "87",
+      "source": "42",
+      "target": "25",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "167",
+      "source": "25",
+      "target": "42",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "88",
+      "source": "1",
+      "target": "47",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "168",
+      "source": "47",
+      "target": "1",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "89",
+      "source": "1",
+      "target": "42",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "169",
+      "source": "42",
+      "target": "1",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "90",
+      "source": "39",
+      "target": "59",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "170",
+      "source": "59",
+      "target": "39",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "91",
+      "source": "73",
+      "target": "69",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "171",
+      "source": "69",
+      "target": "73",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "92",
+      "source": "77",
+      "target": "65",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "172",
+      "source": "65",
+      "target": "77",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "93",
+      "source": "62",
+      "target": "37",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "173",
+      "source": "37",
+      "target": "62",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "94",
+      "source": "39",
+      "target": "54",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "174",
+      "source": "54",
+      "target": "39",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "95",
+      "source": "7",
+      "target": "47",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "175",
+      "source": "47",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "96",
+      "source": "54",
+      "target": "69",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "176",
+      "source": "69",
+      "target": "54",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "97",
+      "source": "1",
+      "target": "29",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "177",
+      "source": "29",
+      "target": "1",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "98",
+      "source": "33",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "178",
+      "source": "4",
+      "target": "33",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "99",
+      "source": "71",
+      "target": "79",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "179",
+      "source": "79",
+      "target": "71",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "100",
+      "source": "10",
+      "target": "44",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "180",
+      "source": "44",
+      "target": "10",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "101",
+      "source": "26",
+      "target": "46",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "181",
+      "source": "46",
+      "target": "26",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "102",
+      "source": "47",
+      "target": "13",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "182",
+      "source": "13",
+      "target": "47",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "103",
+      "source": "28",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "183",
+      "source": "4",
+      "target": "28",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "104",
+      "source": "50",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "184",
+      "source": "7",
+      "target": "50",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "105",
+      "source": "46",
+      "target": "64",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "185",
+      "source": "64",
+      "target": "46",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "106",
+      "source": "36",
+      "target": "66",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "186",
+      "source": "66",
+      "target": "36",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "107",
+      "source": "4",
+      "target": "7",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "187",
+      "source": "7",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "108",
+      "source": "70",
+      "target": "11",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "188",
+      "source": "11",
+      "target": "70",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "109",
+      "source": "9",
+      "target": "25",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "189",
+      "source": "25",
+      "target": "9",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "110",
+      "source": "18",
+      "target": "72",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "190",
+      "source": "72",
+      "target": "18",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "111",
+      "source": "76",
+      "target": "32",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "191",
+      "source": "32",
+      "target": "76",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "112",
+      "source": "57",
+      "target": "78",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "192",
+      "source": "78",
+      "target": "57",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "113",
+      "source": "67",
+      "target": "67",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "193",
+      "source": "67",
+      "target": "67",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "114",
+      "source": "60",
+      "target": "20",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "194",
+      "source": "20",
+      "target": "60",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "115",
+      "source": "24",
+      "target": "19",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "195",
+      "source": "19",
+      "target": "24",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "116",
+      "source": "13",
+      "target": "0",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "196",
+      "source": "0",
+      "target": "13",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "117",
+      "source": "74",
+      "target": "61",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "197",
+      "source": "61",
+      "target": "74",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "118",
+      "source": "18",
+      "target": "28",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "198",
+      "source": "28",
+      "target": "18",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "119",
+      "source": "6",
+      "target": "5",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "199",
+      "source": "5",
+      "target": "6",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "120",
+      "source": "2",
+      "target": "64",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "200",
+      "source": "64",
+      "target": "2",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "121",
+      "source": "66",
+      "target": "53",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "201",
+      "source": "53",
+      "target": "66",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "122",
+      "source": "36",
+      "target": "65",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "202",
+      "source": "65",
+      "target": "36",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "123",
+      "source": "33",
+      "target": "79",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "203",
+      "source": "79",
+      "target": "33",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "124",
+      "source": "22",
+      "target": "66",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "204",
+      "source": "66",
+      "target": "22",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "125",
+      "source": "73",
+      "target": "50",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "205",
+      "source": "50",
+      "target": "73",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "126",
+      "source": "55",
+      "target": "23",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "206",
+      "source": "23",
+      "target": "55",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "127",
+      "source": "77",
+      "target": "68",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "207",
+      "source": "68",
+      "target": "77",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "128",
+      "source": "50",
+      "target": "50",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "208",
+      "source": "50",
+      "target": "50",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "129",
+      "source": "44",
+      "target": "9",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "209",
+      "source": "9",
+      "target": "44",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "130",
+      "source": "65",
+      "target": "34",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "210",
+      "source": "34",
+      "target": "65",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "131",
+      "source": "1",
+      "target": "49",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "211",
+      "source": "49",
+      "target": "1",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "132",
+      "source": "4",
+      "target": "22",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "212",
+      "source": "22",
+      "target": "4",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "133",
+      "source": "3",
+      "target": "7",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "213",
+      "source": "7",
+      "target": "3",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "134",
+      "source": "34",
+      "target": "34",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "214",
+      "source": "34",
+      "target": "34",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "135",
+      "source": "14",
+      "target": "44",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "215",
+      "source": "44",
+      "target": "14",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "136",
+      "source": "78",
+      "target": "14",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "216",
+      "source": "14",
+      "target": "78",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "137",
+      "source": "28",
+      "target": "21",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "217",
+      "source": "21",
+      "target": "28",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "138",
+      "source": "22",
+      "target": "61",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "218",
+      "source": "61",
+      "target": "22",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "139",
+      "source": "25",
+      "target": "77",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "219",
+      "source": "77",
+      "target": "25",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  }
+]

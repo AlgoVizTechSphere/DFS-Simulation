@@ -1,0 +1,1593 @@
+[
+  {
+    "data": {
+      "id": "0",
+      "degreeCentrality": 10,
+      "djikstraDistance": 79,
+      "query": true,
+      "social": true,
+      "name": "New Zealand"
+    },
+    "position": {
+      "x": 707.2997191216026,
+      "y": 709.9377992744477
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1",
+      "degreeCentrality": 7,
+      "djikstraDistance": 67,
+      "query": true,
+      "social": true,
+      "name": "Turkmenistan"
+    },
+    "position": {
+      "x": 683.024828637132,
+      "y": 223.75652165636762
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "2",
+      "degreeCentrality": 2,
+      "djikstraDistance": 44,
+      "query": true,
+      "social": true,
+      "name": "French Guiana"
+    },
+    "position": {
+      "x": 397.07609014186073,
+      "y": 816.5719845036713
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "3",
+      "degreeCentrality": 5,
+      "djikstraDistance": 7,
+      "query": true,
+      "social": true,
+      "name": "Saudi Arabia"
+    },
+    "position": {
+      "x": 754.0034235938845,
+      "y": 166.2658762398377
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "4",
+      "degreeCentrality": 6,
+      "djikstraDistance": 70,
+      "query": true,
+      "social": true,
+      "name": "Venezuela"
+    },
+    "position": {
+      "x": 454.00721962797985,
+      "y": 864.4786847989825
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "5",
+      "degreeCentrality": 4,
+      "djikstraDistance": 20,
+      "query": true,
+      "social": true,
+      "name": "Netherlands"
+    },
+    "position": {
+      "x": 509.0397202159874,
+      "y": 677.3137059591901
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "6",
+      "degreeCentrality": 3,
+      "djikstraDistance": 60,
+      "query": true,
+      "social": true,
+      "name": "Korea, Republic of"
+    },
+    "position": {
+      "x": 481.70304840159326,
+      "y": 509.1519467124562
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "7",
+      "degreeCentrality": 5,
+      "djikstraDistance": 54,
+      "query": true,
+      "social": true,
+      "name": "Norway"
+    },
+    "position": {
+      "x": 425.5837112587407,
+      "y": 169.44901894242693
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "8",
+      "degreeCentrality": 2,
+      "djikstraDistance": 42,
+      "query": true,
+      "social": true,
+      "name": "Cambodia"
+    },
+    "position": {
+      "x": 430.36574990585177,
+      "y": 273.9894835701241
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "9",
+      "degreeCentrality": 0,
+      "djikstraDistance": 52,
+      "query": true,
+      "social": true,
+      "name": "Macao"
+    },
+    "position": {
+      "x": 193.46023842114357,
+      "y": 826.5030594314483
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "10",
+      "degreeCentrality": 5,
+      "djikstraDistance": 7,
+      "query": true,
+      "social": true,
+      "name": "Bhutan"
+    },
+    "position": {
+      "x": 461.74029359354864,
+      "y": 956.8110822748686
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "11",
+      "source": "5",
+      "target": "1",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "22",
+      "source": "1",
+      "target": "5",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "12",
+      "source": "6",
+      "target": "9",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "23",
+      "source": "9",
+      "target": "6",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "13",
+      "source": "4",
+      "target": "9",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "24",
+      "source": "9",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "14",
+      "source": "10",
+      "target": "5",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "25",
+      "source": "5",
+      "target": "10",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "15",
+      "source": "7",
+      "target": "10",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "26",
+      "source": "10",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "16",
+      "source": "0",
+      "target": "5",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "27",
+      "source": "5",
+      "target": "0",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "17",
+      "source": "8",
+      "target": "3",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "28",
+      "source": "3",
+      "target": "8",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "18",
+      "source": "3",
+      "target": "6",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "29",
+      "source": "6",
+      "target": "3",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "19",
+      "source": "7",
+      "target": "9",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "30",
+      "source": "9",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "20",
+      "source": "8",
+      "target": "9",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "31",
+      "source": "9",
+      "target": "8",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "21",
+      "source": "5",
+      "target": "4",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "32",
+      "source": "4",
+      "target": "5",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "22",
+      "source": "4",
+      "target": "0",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "33",
+      "source": "0",
+      "target": "4",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "23",
+      "source": "7",
+      "target": "8",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "34",
+      "source": "8",
+      "target": "7",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "24",
+      "source": "6",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "35",
+      "source": "4",
+      "target": "6",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "25",
+      "source": "5",
+      "target": "1",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "36",
+      "source": "1",
+      "target": "5",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "26",
+      "source": "6",
+      "target": "4",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "37",
+      "source": "4",
+      "target": "6",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "27",
+      "source": "10",
+      "target": "9",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "38",
+      "source": "9",
+      "target": "10",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "28",
+      "source": "10",
+      "target": "6",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "39",
+      "source": "6",
+      "target": "10",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "29",
+      "source": "6",
+      "target": "9",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "40",
+      "source": "9",
+      "target": "6",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "30",
+      "source": "7",
+      "target": "6",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "41",
+      "source": "6",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "31",
+      "source": "9",
+      "target": "10",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "42",
+      "source": "10",
+      "target": "9",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "32",
+      "source": "6",
+      "target": "0",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "43",
+      "source": "0",
+      "target": "6",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "33",
+      "source": "7",
+      "target": "9",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "44",
+      "source": "9",
+      "target": "7",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "34",
+      "source": "1",
+      "target": "4",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "45",
+      "source": "4",
+      "target": "1",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "35",
+      "source": "6",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "46",
+      "source": "4",
+      "target": "6",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "36",
+      "source": "0",
+      "target": "7",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "47",
+      "source": "7",
+      "target": "0",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "37",
+      "source": "2",
+      "target": "6",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "48",
+      "source": "6",
+      "target": "2",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "38",
+      "source": "10",
+      "target": "5",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "49",
+      "source": "5",
+      "target": "10",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "39",
+      "source": "6",
+      "target": "4",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "50",
+      "source": "4",
+      "target": "6",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "40",
+      "source": "0",
+      "target": "4",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "51",
+      "source": "4",
+      "target": "0",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "41",
+      "source": "0",
+      "target": "1",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "52",
+      "source": "1",
+      "target": "0",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "42",
+      "source": "1",
+      "target": "4",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "53",
+      "source": "4",
+      "target": "1",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "43",
+      "source": "4",
+      "target": "9",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "54",
+      "source": "9",
+      "target": "4",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "44",
+      "source": "7",
+      "target": "1",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "55",
+      "source": "1",
+      "target": "7",
+      "social": true,
+      "weight": 0.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "45",
+      "source": "4",
+      "target": "3",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "56",
+      "source": "3",
+      "target": "4",
+      "social": true,
+      "weight": 2.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "46",
+      "source": "10",
+      "target": "2",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "57",
+      "source": "2",
+      "target": "10",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "47",
+      "source": "4",
+      "target": "3",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "58",
+      "source": "3",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "48",
+      "source": "4",
+      "target": "9",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "59",
+      "source": "9",
+      "target": "4",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "49",
+      "source": "5",
+      "target": "3",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "60",
+      "source": "3",
+      "target": "5",
+      "social": true,
+      "weight": 1.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "50",
+      "source": "1",
+      "target": "4",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "61",
+      "source": "4",
+      "target": "1",
+      "social": true,
+      "weight": 3.0
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "classes": ""
+  }
+]
