@@ -33,7 +33,7 @@ This project demonstrates the use of Cytoscape.js to simulate graph traversal al
 
 ## **Project Structure**
 
-````plaintext
+```plaintext
 ├── index.html          # Main HTML file
 ├── index.js            # JavaScript file for application logic
 ├── README.md           # Project documentation
@@ -41,18 +41,21 @@ This project demonstrates the use of Cytoscape.js to simulate graph traversal al
 ├── race.json           # Example dataset: Race
 ├── transportation.json # Example dataset: Transportation
 
+```
+
 ---
 
 ## **Steps to Run**
 
 - Clone the repository or download the project files.
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+  ```bash
+  git clone <repository-url>
+  cd <repository-folder>
+
+  ```
 
 - Open the index.html file in your web browser or use a local web server to serve the project.
-
 
 DFS Simulation with Cytoscape.js
 
@@ -134,36 +137,40 @@ cd <repository-folder>
 
 - Datasets should be in JSON format compatible with Cytoscape.js. Example:
 
-    ```Json
-        {
-        "nodes": [
-        { "data": { "id": "a", "name": "Node A" } },
-        { "data": { "id": "b", "name": "Node B" } }
-        ],
-        "edges": [
-        { "data": { "source": "a", "target": "b" } }
-        ]
-        }
+  ```Json
+      {
+      "nodes": [
+      { "data": { "id": "a", "name": "Node A" } },
+      { "data": { "id": "b", "name": "Node B" } }
+      ],
+      "edges": [
+      { "data": { "source": "a", "target": "b" } }
+      ]
+      }
+  ```
 
 ## **Adding a New Dataset**
 
 - Create a JSON file following the dataset structure.
 - Place the file in the project directory.
 - Add an option to the #data dropdown in index.html:
-    ```html
-        <option value="your-dataset.json">Your Dataset</option>
+  ```html
+  <option value="your-dataset.json">Your Dataset</option>
+  ```
 
 ## **Styles**
 
 - To modify the graph's appearance, update the plain.json stylesheet or create a new one. Add it to the #style dropdown in index.html:
-    ```html
-        <option value="your-style.json">Your Style</option>
+  ```html
+  <option value="your-style.json">Your Style</option>
+  ```
 
 ## **Algorithms**
 
 - Implement custom algorithms in index.js and add them to the #algorithm dropdown. Example:
-    ```html
-        <option value="your-algorithm">Your Algorithm</option>
+  ```html
+  <option value="your-algorithm">Your Algorithm</option>
+  ```
 
 ## **Responsive Design**
 
@@ -178,4 +185,7 @@ cd <repository-folder>
 
 - Thanks to the developers of Cytoscape.js for the powerful graph visualization library.
 - Inspired by various graph theory and visualization tools.
-````
+
+```
+
+```
