@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DFS Simulation with Cytoscape.js</title>
+
+    <!-- for testing with local version of cytoscape.js -->
+    <!--<script src="../cytoscape.js/build/cytoscape.js"></script>-->
+
+    <!-- <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script> -->
+    <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
+    <!-- Cytoscape Core -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.24.0/cytoscape.min.js"></script>
+
+    <!-- Cytoscape Cola Layout -->
+    <script src="https://unpkg.com/cytoscape-cola/cytoscape-cola.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body style="margin: 0">
+    <div class="control-panel">
+      <div>
+        <label for="data" class="tooltip" title="Switch to a new dataset"
+          >Active Dataset:</label
+        >
+        <select id="data">
+          <option value="race.json" selected>Race</option>
+          <option value="transportation.json">Transportation</option>
+        </select>
+      </div>
+      <div>
+        <label
+          for="style"
+          class="tooltip"
+          title="Switch to a new graph stylesheet"
+          >Active Stylesheet:</label
+        >
+        <select id="style">
+          <option value="plain.json">Plain</option>
+        </select>
+      </div>
+      <div>
+        <label for="layout" class="tooltip" title="Change layout"
+          >Active Layout:</label
+        >
+        <select id="layout">
+          <option value="concentricCentrality" selected>
+            Concentric by Centrality
+          </option>
+          <option value="cola">Force-directed</option>
+          <option value="concentricHierarchyCentrality">
+            Hierarchy by Centrality
+          </option>
+        </select>
+      </div>
+      <div>
+        <label
+          for="algorithm"
+          class="tooltip"
+          title="Run algorithm. Try running A* a few times to see distances to different nodes"
+          >Select Algorithm:</label
+        >
+        <select id="algorithm">
+          <option value="none" selected>None</option>
+          <option value="bfs">BFS</option>
+          <option value="dfs">DFS</option>
+          <option value="maxdistance">Max Distance</option>
+          <option value="astar">A*</option>
+          <option value="custom">Custom</option>
+        </select>
+      </div>
+
+      <div id="inputFields" class="input-fields">
+        <div class="control-panel">
+          <div>
+            <label for="startNode">Start Node:</label>
+            <select id="startNode">
+              <option value="">Select a Node</option>
+            </select>
+          </div>
+          <div>
+            <label for="endNode">End Node:</label>
+            <select id="endNode">
+              <option value="">Select a Node</option>
+            </select>
+          </div>
+          <div>
+            <label for="maxDistance">Max Distance:</label>
+            <input
+              type="text"
+              id="maxDistance"
+              placeholder="Enter Max Distance"
+            />
+          </div>
+          <div>
+            <button id="runAlgorithm">Run Algorithm</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="cy" class="main"></div>
+
+    <style>
+      /* Reset some default styles */
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* Main graph container */
+      #cy {
+        background-color: #ece852;
+        background-image: linear-gradient(
+            to right,
+            #cccccc 1px,
+            transparent 1px
+          ),
+          linear-gradient(to bottom, #cccccc 1px, transparent 1px);
+        background-size: 20px 20px;
+        height: 375px;
+        padding: 20px;
+        overflow: hidden;
+      }
+
+      /* Control Panel */
+      .control-panel {
+        display: flex;
+        flex-wrap: wrap; /* Allow items to wrap if space is too tight */
+        gap: 15px;
+        margin: 20px;
+        overflow-x: auto; /* Allows horizontal scrolling if content overflows */
+        justify-content: flex-start;
+      }
+
+      label {
+        font-size: 14px;
+        margin-bottom: 5px;
+        color: #555;
+      }
+
+      select,
+      input,
+      button {
+        padding: 10px;
+        font-size: 14px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        outline: none;
+        box-sizing: border-box; /* Ensures padding and borders are included in the width */
+      }
+
+      select,
+      input {
+        width: 200px;
+        margin-bottom: 10px;
+      }
+
+      button {
+        background-color: #4caf50;
+        color: white;
+        cursor: pointer;
+        width: 150px;
+        transition: background-color 0.3s;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+
+      /* Hidden fields */
+      .input-fields {
+        display: none;
+      }
+
+      .tooltip {
+        cursor: help;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 768px) {
+        .control-panel {
+          flex-direction: column; /* Stack vertically on small screens */
+          align-items: stretch; /* Ensure elements stretch to fill the container */
+        }
+
+        select,
+        input,
+        button {
+          width: 100%; /* Ensure full-width on smaller screens */
+        }
+      }
+
+      /* Preventing overflow */
+      .main {
+        max-width: 100%;
+        overflow: auto;
+        word-wrap: break-word;
+      }
+    </style>
+  </body>
+</html>
