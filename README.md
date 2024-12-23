@@ -41,6 +41,8 @@ This project demonstrates the use of Cytoscape.js to simulate graph traversal al
 ├── race.json           # Example dataset: Race
 ├── transportation.json # Example dataset: Transportation
 
+---
+
 ## **Steps to Run**
 
 - Clone the repository or download the project files.
